@@ -21,4 +21,4 @@ Notice the default sorting ordeer is using A-Z ASC order of the API name.
 
 # License
 
-[MIT](blob/master/LICENSE)
+[MIT](LICENSE)
